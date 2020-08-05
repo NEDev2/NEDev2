@@ -1,11 +1,11 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Nehoray - [Nehoray-Developer] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+## I'm a Developer!
+- 🔭 I’m currently working on a Develop Games!
+- 🌱 I’m currently learning Python And Cyber Security
+- 👯 I’m looking to collaborate with other Developers
+- 🥅 2020 Goals: Learn Python Fully And Learn Cyber Security Fully
+- ⚡ Fun fact: I love to code and learn more about Coding And Cyber Security
 
 ### Connect with me:
 
