@@ -44,12 +44,5 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-[website]: 
+# [website]:
 [twitter]: https://twitter.com/Dev2Ne
-[youtube]: 
-[instagram]: 
-[linkedin]: 
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]: 
-[reactplaylist]: 
