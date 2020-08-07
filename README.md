@@ -7,6 +7,7 @@
 - 🥅 2020 Goals: Learn Python Fully And Learn Cyber Security Fully
 - ⚡ Fun fact: I love to code and learn more about Coding And Cyber Security
 - 👻 How To Contact Me: [Twitter](https://twitter.com/DEv2NE), [GitHub Profile](https://github.com/NEDev2)
+- ✡ I Don't work/Code On Saturday
 
 ### Connect with me:
 
