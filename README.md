@@ -51,7 +51,7 @@
 [youtube]: https://youtube.com
 [instagram]: https://linkedin.com
 [linkedin]: https://linkedin.com
-[webdevplaylist]: https://www.youtube.com
+[webdevplaylist]: www.com
 [jsplaylist]: https://www.youtube.com
 [cssplaylist]: https://www.youtube.com
 [reactplaylist]: https://www.youtube.com
