@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Develop Games!
 - 🌱 I’m currently learning Python And Cyber Security
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2020 Goals: Learn Python Fully And Learn Cyber Security Fully
+- 🥅 2021 Goals: Learn Python Fully And Learn Cyber Security Fully
 - ⚡ Fun fact: I love to code and learn more about Coding In Python/Lua
 - 👻 How To Contact Me: [Twitter](https://twitter.com/DEv2NE), [GitHub Profile](https://github.com/NEDev2)
 - ✡ I Don't work/Code On Saturday
