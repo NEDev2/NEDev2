@@ -1,56 +1,43 @@
-### Hi there, I'm Nehoray - [Nehoray-Developer] 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-## I'm a Developer!
-- 🔭 I’m currently working on a Telegram Bot!
-- 🌱 I’m currently learning Python And Cyber Security
-- 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 Goals: Create a project that can generate money!
-- ⚡ Fun fact: I love to code and learn more about Coding In Python/Lua
-- 👻 How To Contact Me: [Twitter](https://twitter.com/DEv2NE), [GitHub Profile](https://github.com/NEDev2)
+###
 
-### Connect with me:
+<p align="left">My name is Nehoray and I'm a "Computer Wizard", from Israel</p>
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+###
 
-<br />
+<img align="right" height="400" src="ADD_GIF_URL_HERE_POST"  />
 
-### Languages and Tools:
+###
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+<h2 align="left">About me</h2>
 
-<br />
-<br />
+###
 
+<p align="left"># 👾 Welcome to My Code Cave! 👾<br><br>✨ Creating bugs since the dawn of time (circa 2000 B.C.)<br>🔧 Currently debugging: Life, the Universe, and Everything<br>📚 Currently learning: How to make spaghetti code al dente<br>🎯 Goals: command not found (but I'm aiming for the moon, just in case)<br>🎲 Fun fact: Don't use Anaconda... unless you have a mongoose. 🐍<br>🕹️ Favorite pastime: Refactoring my refactors<br>🎨 Hobbies: Turning coffee into code, and sometimes vice versa<br>🤖 Robot overlord in training<br>📈 Current status: Committing my life away, one push at a time<br>🐱 Fun fact #2: My cat thinks he's a developer too... but he mostly just deletes code<br>🍕 Preferred debugging snack: Pizza (because who can resist?)<br><br>## 💬 How to reach me:<br>- Carrier pigeon<br>- Smoke signals<br>- Morse code<br><br>## 🛠️ Technologies & Tools:<br>- **Git**: Because losing my work is not an option (Ctrl+Z can only do so much)<br>- **VS Code**: Where the code and coffee collide in a magical symphony<br>- **Coffee**: The true programming language<br>- **Stack Overflow**: My lifeline and savior, praise be unto the community!<br><br>## 🚀 Projects:<br>- A "Hello World" program so advanced, it says "Hello Universe!" (patent pending)<br>- An app that orders pizza automatically whenever my code crashes (currently beta-testing with friends... they’re getting fat)<br>- A bot that tells jokes so bad, they might just fix your code (or make you cry, who knows?)<br><br>## 🤖 Random Thought of the Day:<br>Why do programmers prefer dark mode? Because light attracts bugs and we’re part vampire. 🧛‍♂️🌚<br><br>Thanks for stopping by my GitHub! Now go break some code! 🐛</p>
 
----
+###
 
-<img align="left" alt="Nehoray's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nehoray&show_icons=true&hide_border=true" />
+<h4 align="left">## 🧙‍♂️ I Code With:<br><br>- **Magic Spells**: Because sometimes the only way to debug is with a little bit of wizardry. 🧙‍♂️✨<br>- **Late Nights**: When the world is asleep, and I’m up turning caffeine into code. 🌙💻<br>- **Rubber Ducks**: The best silent therapists who listen to my code problems without judging. 🦆💬<br>- **Hopes and Dreams**: Because sometimes, all you need is a little bit of hope (and a lot of debugging). 💫🔧<br>- **Music**: The right playlist can turn any bug into a feature. 🎶🎧<br>- **Snacks**: Brain food is real. 🍫🍪<br>- **Post-it Notes**: For those moments when digital reminders just won't cut it. 📝🌈<br>- **Git**: Version control, because saving my sanity one commit at a time is crucial. 🌳😂<br>- **Debuggers**: The real MVPs. 🕵️‍♂️🔍<br>- **Internet Memes**: For those moments when I need a break and a good laugh. 😂🌐</h4>
 
-[website]: https://twitter.com/Dev2NE
-[twitter]: https://twitter.com/Dev2NE
-[youtube]: https://youtube.com
-[instagram]: https://linkedin.com
-[linkedin]: https://linkedin.com
-[webdevplaylist]: www.com
-[jsplaylist]: https://www.youtube.com
-[cssplaylist]: https://www.youtube.com
-[reactplaylist]: https://www.youtube.com
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+</div>
+
+###
