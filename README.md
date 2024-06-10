@@ -32,10 +32,10 @@
   - Smoke signals<br>
   - Morse code<br><br>
   ## 🛠️ Technologies & Tools:<br>
-  - **Git**: Because losing my work is not an option (Ctrl+Z can only do so much)<br>
-  - **VS Code**: Where the code and coffee collide in a magical symphony<br>
-  - **Coffee**: The true programming language<br>
-  - **Stack Overflow**: My lifeline and savior, praise be unto the community!<br><br>
+  - Git: Because losing my work is not an option (Ctrl+Z can only do so much)<br>
+  - VS Code: Where the code and coffee collide in a magical symphony<br>
+  - Coffee: The true programming language<br>
+  - Stack Overflow: My lifeline and savior, praise be unto the community!<br><br>
   ## 🚀 Projects:<br>
   - A "Hello World" program so advanced, it says "Hello Universe!" (patent pending)<br>
   - An app that orders pizza automatically whenever my code crashes (currently beta-testing with friends... they’re getting fat)<br>
@@ -50,15 +50,15 @@
 <h4 align="left">
   ## 🧙‍♂️ I Code With:<br><br>
   - Magic Spells: Because sometimes the only way to debug is with a little bit of wizardry. 🧙‍♂️✨<br>
-  - **Late Nights**: When the world is asleep, and I’m up turning caffeine into code. 🌙💻<br>
-  - **Rubber Ducks**: The best silent therapists who listen to my code problems without judging. 🦆💬<br>
-  - **Hopes and Dreams**: Because sometimes, all you need is a little bit of hope (and a lot of debugging). 💫🔧<br>
-  - **Music**: The right playlist can turn any bug into a feature. 🎶🎧<br>
-  - **Snacks**: Brain food is real. 🍫🍪<br>
-  - **Post-it Notes**: For those moments when digital reminders just won't cut it. 📝🌈<br>
-  - **Git**: Version control, because saving my sanity one commit at a time is crucial. 🌳😂<br>
-  - **Debuggers**: The real MVPs. 🕵️‍♂️🔍<br>
-  - **Internet Memes**: For those moments when I need a break and a good laugh. 😂🌐
+  - Late Nights: When the world is asleep, and I’m up turning caffeine into code. 🌙💻<br>
+  - Rubber Ducks: The best silent therapists who listen to my code problems without judging. 🦆💬<br>
+  - Hopes and Dreams: Because sometimes, all you need is a little bit of hope (and a lot of debugging). 💫🔧<br>
+  - Music: The right playlist can turn any bug into a feature. 🎶🎧<br>
+  - Snacks: Brain food is real. 🍫🍪<br>
+  - Post-it Notes: For those moments when digital reminders just won't cut it. 📝🌈<br>
+  - Git: Version control, because saving my sanity one commit at a time is crucial. 🌳😂<br>
+  - Debuggers: The real MVPs. 🕵️‍♂️🔍<br>
+  - Internet Memes: For those moments when I need a break and a good laugh. 😂🌐
 </h4>
 
 ###
