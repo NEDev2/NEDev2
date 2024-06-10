@@ -49,7 +49,7 @@
 
 <h4 align="left">
   ## 🧙‍♂️ I Code With:<br><br>
-  - **Magic Spells**: Because sometimes the only way to debug is with a little bit of wizardry. 🧙‍♂️✨<br>
+  - *Magic Spells*: Because sometimes the only way to debug is with a little bit of wizardry. 🧙‍♂️✨<br>
   - **Late Nights**: When the world is asleep, and I’m up turning caffeine into code. 🌙💻<br>
   - **Rubber Ducks**: The best silent therapists who listen to my code problems without judging. 🦆💬<br>
   - **Hopes and Dreams**: Because sometimes, all you need is a little bit of hope (and a lot of debugging). 💫🔧<br>
